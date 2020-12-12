@@ -7,8 +7,9 @@
 ## Tech used
 
 1. Python
-  * Pandas
-  * Sklearn
+  * Data manipulation: Pandas
+  * ML algorithms: scikit-learn
+  * Plotting: matplotlib
 2. Jupyter lab
 
 ## Helpful ressources
