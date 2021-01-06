@@ -7,6 +7,7 @@
 ## Tech used
 
 1. Python
+  * Helpers: Vanilla python helper functions
   * Data manipulation: Pandas
   * ML algorithms: scikit-learn
   * Plotting: matplotlib
